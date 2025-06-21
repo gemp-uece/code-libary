@@ -9,3 +9,6 @@
 
 - Strings
     - [KMP - Prefixo que tambem é Sufixo](https://github.com/gemp-uece/code-libary/blob/training-camp-colombia/classic-problems/File-Recover-Testing.cpp)
+
+- DP
+    - [DP -  Contando número de subconjuntos não vazios e não sobrepostas](https://github.com/gemp-uece/code-libary/blob/training-camp-colombia/classic-problems/Activities.cpp)
