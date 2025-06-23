@@ -5,7 +5,7 @@
     - [Segment Tree - Segment with the Maximum Sum](https://github.com/gemp-uece/code-libary/blob/main/classic-problems/Segment-with-the-Maximum-Sum.cpp)
     - [Segment Tree - Number-of-Minimums-on-a-Segment](https://github.com/gemp-uece/code-libary/blob/main/classic-problems/Number-of-Minimums-on-a-Segment.cpp)
     - [Segment Tree + DP - Subsequences](https://github.com/gemp-uece/code-libary/blob/main/classic-problems/Subsequences.cpp)
-
+    - [Segment Tree + First Element At Least X - Subsequences](https://github.com/gemp-uece/code-libary/blob/main/classic-problems/First-element-at-least-X-2.cpp)
 
 
 - Tree
