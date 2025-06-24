@@ -72,6 +72,7 @@ signed main()
         } else r = md - 1;
       }
       // `dp[i]` representa o número de subconjuntos não vazios formados pelas primeiras i atividades ordenadas.
+      // dp[i] = dp[mx] + 1 ( quantos formo com o i) e dp[i-1] quantos formo sem i, imaginar o passo recursivo. 
       dp[i] = dp[mx] + 1 + dp[i-1];
       dp[i] %= MOD;
     }
